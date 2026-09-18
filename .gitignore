@@ -1,0 +1,23 @@
+# Dependency directories
+node_modules/
+/client/node_modules/
+/server/node_modules/
+
+# Production builds
+/client/dist/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Vite / local tooling caches
+.vite/
+.vscode/
+
+# OS / log files
+*.log
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
