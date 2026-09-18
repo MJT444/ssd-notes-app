@@ -1,8 +1,8 @@
 # Student Notes MERN CRUD App
 
-**Student Name:** Manjeet  
+**Student Name:** Manjeet Singh Seegriwal  
 **Student ID:** 2026201022
-**GitHub Repository:** "in/progress"
+**GitHub Repository:** https://github.com/MJT444/ssd-notes-app
 
 ## 🛠️ Step-by-Step Local Deployment Setup
 
